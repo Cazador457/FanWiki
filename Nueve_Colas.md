@@ -5,3 +5,6 @@ Cuando se encontró con Yu Ziyu por primera vez aún era un zorro normal pero se
 Por otro lado aunque esto le permitió la oportunidad de volverse más fuerte con el tiempo aún guardaba el deseo de vengarse de la Serpiente Hacha de Guerra, pero su segundo encuentro llegó antes de que lo esperado cuando llevaba a las hijas del protagonista a encontrarse con él, terminando siendo incapaz de protegerlas y volviendo a ser gravemente herido mientras miraba como ellas eran asesinadas.
 La última vez 
 ## Habilidades
+### NIVEL
+### HABILIDAD INNATA
+### HABILIDAD ESPECIAL

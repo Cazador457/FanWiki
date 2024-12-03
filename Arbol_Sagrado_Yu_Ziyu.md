@@ -18,6 +18,6 @@ Al final de todo el sistema que tiene lo revivió, pero fue esta la experiencia 
 Las habilidades con las que cuenta cambiaron mucho a lo largo del tiempo siendo estas físicas o elementales.
 
 ### Pasivas
-1. Recibir la luz del sol todos los días le hace ganar 0.1 puntos de evolución.
-1. Mata otras criaturas para ganar puntos de evolución (calculados dependiendo del nivel de la criatura.)
+- Recibir la luz del sol todos los días le hace ganar 0.1 puntos de evolución.
+- Mata otras criaturas para ganar puntos de evolución (calculados dependiendo del nivel de la criatura.)
 ### Talento Natural
